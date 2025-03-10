@@ -35,7 +35,7 @@ const App = () => {
       <section className="sm:px-16 px-8 sm:py-32 py-16 w-full">
         <StayUpdated />
       </section>
-      <section className="sm:py-24 py-12 bg-black sm:px-16 px-8 sm:pt-24 pt-12 pb-8">
+      <section className="sm:px-1 px-8">
         <Footer />
       </section>
     </main>
